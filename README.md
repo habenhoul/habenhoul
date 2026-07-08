@@ -1,5 +1,9 @@
 # Hamed — développeur web freelance · Aubagne / Marseille
 
+## Contact
+🦏 e3888937-9c08-46c4-a1de-ce9ed8046b61
+✉️ habenhoul@ozmail.eu
+
 30 ans. Je fais du web depuis assez longtemps pour avoir vu passer jQuery, puis son enterrement, puis sa résurrection déguisée en hook React. HTML, CSS, JS vanilla — un framework n'entre dans le projet que s'il résout un problème que je n'arrive pas à résoudre autrement. La plupart du temps, ce n'est pas le cas.
 
 ## Ce que je fais
